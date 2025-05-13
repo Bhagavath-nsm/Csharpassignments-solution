@@ -16,7 +16,7 @@
                 {
                     Console.Write(number);
                     
-                }
+                } 
                 Console.WriteLine("\n");
 
             }
