@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bhagavath\\OneDrive\\Desktop\\stringtask-solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A8803A-A403-4994-BEF4-C2FE9523C18D}|task2\\task2.csproj|c:\\users\\bhagavath\\onedrive\\desktop\\stringtask-solution\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A8803A-A403-4994-BEF4-C2FE9523C18D}|task2\\task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4FEAB0-3903-4B2C-A1AE-25F8F212605C}|task6\\task6.csproj|c:\\users\\bhagavath\\onedrive\\desktop\\stringtask-solution\\task6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4FEAB0-3903-4B2C-A1AE-25F8F212605C}|task6\\task6.csproj|solutionrelative:task6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88B479B-EFB5-4D79-BD35-6AB2AD94F563}|stringtask2\\stringtask2.csproj|c:\\users\\bhagavath\\onedrive\\desktop\\stringtask-solution\\stringtask2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88B479B-EFB5-4D79-BD35-6AB2AD94F563}|stringtask2\\stringtask2.csproj|solutionrelative:stringtask2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16692F0A-D8F0-4FEC-85D0-0C517FF3BF6E}|task3\\task3.csproj|c:\\users\\bhagavath\\onedrive\\desktop\\stringtask-solution\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16692F0A-D8F0-4FEC-85D0-0C517FF3BF6E}|task3\\task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301C8FE3-D981-4692-9744-BCF27E9E9A89}|task4\\task5.csproj|c:\\users\\bhagavath\\onedrive\\desktop\\stringtask-solution\\task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301C8FE3-D981-4692-9744-BCF27E9E9A89}|task4\\task5.csproj|solutionrelative:task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bhagavath\\OneDrive\\Desktop\\stringtask-solution\\task2\\Program.cs",
+              "RelativeDocumentMoniker": "task2\\Program.cs",
+              "ToolTip": "C:\\Users\\Bhagavath\\OneDrive\\Desktop\\stringtask-solution\\task2\\Program.cs",
+              "RelativeToolTip": "task2\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwBgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:08:26.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bhagavath\\OneDrive\\Desktop\\stringtask-solution\\task6\\Program.cs",
+              "RelativeDocumentMoniker": "task6\\Program.cs",
+              "ToolTip": "C:\\Users\\Bhagavath\\OneDrive\\Desktop\\stringtask-solution\\task6\\Program.cs",
+              "RelativeToolTip": "task6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T08:53:18.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bhagavath\\OneDrive\\Desktop\\stringtask-solution\\task4\\Program.cs",
+              "RelativeDocumentMoniker": "task4\\Program.cs",
+              "ToolTip": "C:\\Users\\Bhagavath\\OneDrive\\Desktop\\stringtask-solution\\task4\\Program.cs",
+              "RelativeToolTip": "task4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T08:51:41.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bhagavath\\OneDrive\\Desktop\\stringtask-solution\\task3\\Program.cs",
+              "RelativeDocumentMoniker": "task3\\Program.cs",
+              "ToolTip": "C:\\Users\\Bhagavath\\OneDrive\\Desktop\\stringtask-solution\\task3\\Program.cs",
+              "RelativeToolTip": "task3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T10:36:28.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bhagavath\\OneDrive\\Desktop\\stringtask-solution\\stringtask2\\Program.cs",
+              "RelativeDocumentMoniker": "stringtask2\\Program.cs",
+              "ToolTip": "C:\\Users\\Bhagavath\\OneDrive\\Desktop\\stringtask-solution\\stringtask2\\Program.cs",
+              "RelativeToolTip": "stringtask2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T10:35:05.497Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

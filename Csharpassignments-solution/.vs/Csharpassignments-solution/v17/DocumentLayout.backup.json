@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bhagavath\\OneDrive\\Desktop\\Csharpassignments-solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC4612F7-EB01-4DED-AD9B-86F5D29E61D8}|Day1task\\Day1task.csproj|c:\\users\\bhagavath\\onedrive\\desktop\\csharpassignments-solution\\day1task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC4612F7-EB01-4DED-AD9B-86F5D29E61D8}|Day1task\\Day1task.csproj|solutionrelative:day1task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D93B92-A369-4CD5-9267-05BA53C4D363}|Day4assignments\\Day4patternassignment.csproj|c:\\users\\bhagavath\\onedrive\\desktop\\csharpassignments-solution\\day4assignments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D93B92-A369-4CD5-9267-05BA53C4D363}|Day4assignments\\Day4patternassignment.csproj|solutionrelative:day4assignments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC4612F7-EB01-4DED-AD9B-86F5D29E61D8}|Day1task\\Day1task.csproj|c:\\users\\bhagavath\\onedrive\\desktop\\csharpassignments-solution\\day1task\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC4612F7-EB01-4DED-AD9B-86F5D29E61D8}|Day1task\\Day1task.csproj|solutionrelative:day1task\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E39412-1878-4953-A2A8-F7EA3D3F61AA}|Day2task2\\Day2task2.csproj|c:\\users\\bhagavath\\onedrive\\desktop\\csharpassignments-solution\\day2task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E39412-1878-4953-A2A8-F7EA3D3F61AA}|Day2task2\\Day2task2.csproj|solutionrelative:day2task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF408F0-8DF3-4330-AEDB-E92FCF52CB0D}|Day2task1\\Day2task1.csproj|c:\\users\\bhagavath\\onedrive\\desktop\\csharpassignments-solution\\day2task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF408F0-8DF3-4330-AEDB-E92FCF52CB0D}|Day2task1\\Day2task1.csproj|solutionrelative:day2task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59706B2C-6EBF-42D3-8E49-C3FF4E2566D0}|Day2task5\\Day2task5.csproj|c:\\users\\bhagavath\\onedrive\\desktop\\csharpassignments-solution\\day2task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59706B2C-6EBF-42D3-8E49-C3FF4E2566D0}|Day2task5\\Day2task5.csproj|solutionrelative:day2task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDC8DBC-4B6E-41F2-A80D-9DF54841064F}|..\\Demopropelmarch2025\\Democonsoleapp\\Democonsoleapp.csproj|c:\\users\\bhagavath\\onedrive\\desktop\\demopropelmarch2025\\democonsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A50F10D-CCFE-4ADF-89A8-88E80870D82D}|Day2task6\\Day2task6.csproj|c:\\users\\bhagavath\\onedrive\\desktop\\csharpassignments-solution\\day2task6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A50F10D-CCFE-4ADF-89A8-88E80870D82D}|Day2task6\\Day2task6.csproj|solutionrelative:day2task6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49497263-D8F7-41CF-AE68-8784E0B42246}|Day2task4\\Day2task4.csproj|c:\\users\\bhagavath\\onedrive\\desktop\\csharpassignments-solution\\day2task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49497263-D8F7-41CF-AE68-8784E0B42246}|Day2task4\\Day2task4.csproj|solutionrelative:day2task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E32E4D2B-E1C6-463D-B864-C9787259DFD0}|Day2task3\\Day2task3.csproj|c:\\users\\bhagavath\\onedrive\\desktop\\csharpassignments-solution\\day2task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E32E4D2B-E1C6-463D-B864-C9787259DFD0}|Day2task3\\Day2task3.csproj|solutionrelative:day2task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49497263-D8F7-41CF-AE68-8784E0B42246}|Day2task4\\Day2task4.csproj|c:\\users\\bhagavath\\onedrive\\desktop\\csharpassignments-solution\\day2task4\\day2task4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{49497263-D8F7-41CF-AE68-8784E0B42246}|Day2task4\\Day2task4.csproj|solutionrelative:day2task4\\day2task4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CD4C8F-ABDD-4A6D-A1B1-1187ECA48241}|Day1task2\\Day1task2.csproj|c:\\users\\bhagavath\\onedrive\\desktop\\csharpassignments-solution\\day1task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CD4C8F-ABDD-4A6D-A1B1-1187ECA48241}|Day1task2\\Day1task2.csproj|solutionrelative:day1task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A98A2CC-8C79-4F7F-B91A-39AF84507EB8}|Day1task3\\Day1task3.csproj|c:\\users\\bhagavath\\onedrive\\desktop\\csharpassignments-solution\\day1task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A98A2CC-8C79-4F7F-B91A-39AF84507EB8}|Day1task3\\Day1task3.csproj|solutionrelative:day1task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bhagavath\\OneDrive\\Desktop\\Csharpassignments-solution\\Day4assignments\\Program.cs",
+              "RelativeDocumentMoniker": "Day4assignments\\Program.cs",
+              "ToolTip": "C:\\Users\\Bhagavath\\OneDrive\\Desktop\\Csharpassignments-solution\\Day4assignments\\Program.cs",
+              "RelativeToolTip": "Day4assignments\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T09:04:20.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bhagavath\\OneDrive\\Desktop\\Csharpassignments-solution\\Day2task5\\Program.cs",
+              "RelativeDocumentMoniker": "Day2task5\\Program.cs",
+              "ToolTip": "C:\\Users\\Bhagavath\\OneDrive\\Desktop\\Csharpassignments-solution\\Day2task5\\Program.cs",
+              "RelativeToolTip": "Day2task5\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:28:22.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Day2task4.csproj",
+              "DocumentMoniker": "C:\\Users\\Bhagavath\\OneDrive\\Desktop\\Csharpassignments-solution\\Day2task4\\Day2task4.csproj",
+              "RelativeDocumentMoniker": "Day2task4\\Day2task4.csproj",
+              "ToolTip": "C:\\Users\\Bhagavath\\OneDrive\\Desktop\\Csharpassignments-solution\\Day2task4\\Day2task4.csproj",
+              "RelativeToolTip": "Day2task4\\Day2task4.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-13T10:08:06.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bhagavath\\OneDrive\\Desktop\\Csharpassignments-solution\\Day2task4\\Program.cs",
+              "RelativeDocumentMoniker": "Day2task4\\Program.cs",
+              "ToolTip": "C:\\Users\\Bhagavath\\OneDrive\\Desktop\\Csharpassignments-solution\\Day2task4\\Program.cs",
+              "RelativeToolTip": "Day2task4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T10:02:03.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bhagavath\\OneDrive\\Desktop\\Csharpassignments-solution\\Day2task3\\Program.cs",
+              "RelativeDocumentMoniker": "Day2task3\\Program.cs",
+              "ToolTip": "C:\\Users\\Bhagavath\\OneDrive\\Desktop\\Csharpassignments-solution\\Day2task3\\Program.cs",
+              "RelativeToolTip": "Day2task3\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T09:11:48.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bhagavath\\OneDrive\\Desktop\\Csharpassignments-solution\\Day2task2\\Program.cs",
+              "RelativeDocumentMoniker": "Day2task2\\Program.cs",
+              "ToolTip": "C:\\Users\\Bhagavath\\OneDrive\\Desktop\\Csharpassignments-solution\\Day2task2\\Program.cs",
+              "RelativeToolTip": "Day2task2\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T08:41:19.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bhagavath\\OneDrive\\Desktop\\Csharpassignments-solution\\Day2task1\\Program.cs",
+              "RelativeDocumentMoniker": "Day2task1\\Program.cs",
+              "ToolTip": "C:\\Users\\Bhagavath\\OneDrive\\Desktop\\Csharpassignments-solution\\Day2task1\\Program.cs",
+              "RelativeToolTip": "Day2task1\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T08:33:53.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bhagavath\\OneDrive\\Desktop\\Demopropelmarch2025\\Democonsoleapp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Demopropelmarch2025\\Democonsoleapp\\Program.cs",
+              "ToolTip": "C:\\Users\\Bhagavath\\OneDrive\\Desktop\\Demopropelmarch2025\\Democonsoleapp\\Program.cs",
+              "RelativeToolTip": "..\\Demopropelmarch2025\\Democonsoleapp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T07:15:55.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bhagavath\\OneDrive\\Desktop\\Csharpassignments-solution\\Day1task\\Program.cs",
+              "RelativeDocumentMoniker": "Day1task\\Program.cs",
+              "ToolTip": "C:\\Users\\Bhagavath\\OneDrive\\Desktop\\Csharpassignments-solution\\Day1task\\Program.cs",
+              "RelativeToolTip": "Day1task\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:11:30.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bhagavath\\OneDrive\\Desktop\\Csharpassignments-solution\\Day2task6\\Program.cs",
+              "RelativeDocumentMoniker": "Day2task6\\Program.cs",
+              "ToolTip": "C:\\Users\\Bhagavath\\OneDrive\\Desktop\\Csharpassignments-solution\\Day2task6\\Program.cs",
+              "RelativeToolTip": "Day2task6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:37:47.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Bhagavath\\OneDrive\\Desktop\\Csharpassignments-solution\\Day1task\\Student.cs",
+              "RelativeDocumentMoniker": "Day1task\\Student.cs",
+              "ToolTip": "C:\\Users\\Bhagavath\\OneDrive\\Desktop\\Csharpassignments-solution\\Day1task\\Student.cs",
+              "RelativeToolTip": "Day1task\\Student.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T04:18:28.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bhagavath\\OneDrive\\Desktop\\Csharpassignments-solution\\Day1task3\\Program.cs",
+              "RelativeDocumentMoniker": "Day1task3\\Program.cs",
+              "ToolTip": "C:\\Users\\Bhagavath\\OneDrive\\Desktop\\Csharpassignments-solution\\Day1task3\\Program.cs",
+              "RelativeToolTip": "Day1task3\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T17:37:07.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bhagavath\\OneDrive\\Desktop\\Csharpassignments-solution\\Day1task2\\Program.cs",
+              "RelativeDocumentMoniker": "Day1task2\\Program.cs",
+              "ToolTip": "C:\\Users\\Bhagavath\\OneDrive\\Desktop\\Csharpassignments-solution\\Day1task2\\Program.cs",
+              "RelativeToolTip": "Day1task2\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T15:06:49.09Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

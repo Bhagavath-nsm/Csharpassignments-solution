@@ -1,0 +1,14 @@
+C:\Users\Bhagavath\OneDrive\Desktop\Csharpassignments-solution\Day2task6\bin\Debug\net8.0\Day2task6.exe
+C:\Users\Bhagavath\OneDrive\Desktop\Csharpassignments-solution\Day2task6\bin\Debug\net8.0\Day2task6.deps.json
+C:\Users\Bhagavath\OneDrive\Desktop\Csharpassignments-solution\Day2task6\bin\Debug\net8.0\Day2task6.runtimeconfig.json
+C:\Users\Bhagavath\OneDrive\Desktop\Csharpassignments-solution\Day2task6\bin\Debug\net8.0\Day2task6.dll
+C:\Users\Bhagavath\OneDrive\Desktop\Csharpassignments-solution\Day2task6\bin\Debug\net8.0\Day2task6.pdb
+C:\Users\Bhagavath\OneDrive\Desktop\Csharpassignments-solution\Day2task6\obj\Debug\net8.0\Day2task6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bhagavath\OneDrive\Desktop\Csharpassignments-solution\Day2task6\obj\Debug\net8.0\Day2task6.AssemblyInfoInputs.cache
+C:\Users\Bhagavath\OneDrive\Desktop\Csharpassignments-solution\Day2task6\obj\Debug\net8.0\Day2task6.AssemblyInfo.cs
+C:\Users\Bhagavath\OneDrive\Desktop\Csharpassignments-solution\Day2task6\obj\Debug\net8.0\Day2task6.csproj.CoreCompileInputs.cache
+C:\Users\Bhagavath\OneDrive\Desktop\Csharpassignments-solution\Day2task6\obj\Debug\net8.0\Day2task6.dll
+C:\Users\Bhagavath\OneDrive\Desktop\Csharpassignments-solution\Day2task6\obj\Debug\net8.0\refint\Day2task6.dll
+C:\Users\Bhagavath\OneDrive\Desktop\Csharpassignments-solution\Day2task6\obj\Debug\net8.0\Day2task6.pdb
+C:\Users\Bhagavath\OneDrive\Desktop\Csharpassignments-solution\Day2task6\obj\Debug\net8.0\Day2task6.genruntimeconfig.cache
+C:\Users\Bhagavath\OneDrive\Desktop\Csharpassignments-solution\Day2task6\obj\Debug\net8.0\ref\Day2task6.dll
